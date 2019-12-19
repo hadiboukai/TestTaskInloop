@@ -26,4 +26,4 @@ CMD ["bash"]
 
 
 
-ENTRYPOINT ["/usr/bin/ant"]
+ENTRYPOINT ["/usr/bin/gradle"]
